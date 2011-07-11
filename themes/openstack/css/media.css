@@ -1,0 +1,27 @@
+/* @override http://localhost:8888/themes/openstack/css/media.css */
+
+a.icon {
+	display: block;
+	padding: 5px;
+	border: 2px solid #bebebe;
+	background-color: #ececec;
+	height: 60px;
+	width: 80px;
+	margin-bottom: 20px;
+	text-indent: -1000em;
+}
+
+.mediaEntry p {
+	margin-bottom: 0px;
+}
+
+ul#mediaPicker {
+	padding: 0px 0px 20px;
+}
+
+ul#mediaPicker li {
+	display: block;
+	float: left;
+	margin-right: 20px;
+}
+

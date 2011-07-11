@@ -1,0 +1,9 @@
+/* @override 
+	http://localhost:8888/themes/openstack/css/projects.css
+	http://staging.openstack.org/themes/openstack/css/projects.css
+*/
+
+.projectBoxes h2 {
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
